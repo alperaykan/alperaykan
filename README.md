@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Pyton,ML, Ai and so on..
 
 - Languages I know => 
-  FrontEnd ==> React.js, React.ts, Angular, Angular.js , Jquery 
-  Backend ==> .Net, .Net Core, ASP.NET MVC, Node.js
+- FrontEnd ==> React.js, React.ts, Angular, Angular.js , Jquery 
+- Backend ==> .Net, .Net Core, ASP.NET MVC, Node.js
   
 - 📫 You can reach me from my mail <alperfirataykan@gmail.com> ...
   
